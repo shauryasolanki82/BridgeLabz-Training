@@ -5,5 +5,7 @@ public class DistanceConversion {
         double kilometers = scanner.nextDouble(); 
         double miles = kilometers * 0.621371; 
         System.out.println("The distance "+ kilometers + "km in miles is " + miles);
+        scanner.close();
+
     }
 }
