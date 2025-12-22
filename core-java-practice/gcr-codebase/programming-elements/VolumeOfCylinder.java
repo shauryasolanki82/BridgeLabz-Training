@@ -6,5 +6,6 @@ public class VolumeOfCylinder {
         double height = scanner.nextDouble(); 
         double volume = Math.PI * radius * radius * height;
         System.out.println("The volume of the cylinder with radius " + radius + " and height " + height + " is: " + volume);
+        scanner.close();
     }
 }
