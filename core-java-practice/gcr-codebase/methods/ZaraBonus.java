@@ -1,4 +1,3 @@
-package methods;
 
 public class ZaraBonus {
 

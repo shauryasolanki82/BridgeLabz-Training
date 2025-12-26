@@ -1,4 +1,3 @@
-package methods;
 
 public class UnitConvertorYards {
     public static double convertYardsToFeet(double yards) {

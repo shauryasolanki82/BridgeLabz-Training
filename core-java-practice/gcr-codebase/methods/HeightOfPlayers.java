@@ -1,4 +1,4 @@
-package methods;
+
 
 class HeightOfPlayers {
     public static void heights(int[] arr) {

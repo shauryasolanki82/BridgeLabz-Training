@@ -1,4 +1,3 @@
-package methods;
 
 public class RandomNumberArray {
 	public int[] generate4DigitRandomArray(int size) {

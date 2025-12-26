@@ -1,4 +1,3 @@
-package methods;
 
 public class UnitConvertorWeight {
     public static double convertFarhenheitToCelsius(double farhenheit) {
