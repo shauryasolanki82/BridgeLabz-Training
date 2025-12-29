@@ -25,13 +25,13 @@ public class BasicCalculator {
       System.out.println("addition: "+add(n1,n2));
       break;
       case '-':
-      System.out.println("addition: "+subtract(n2, n2));
+      System.out.println("subtraction: "+subtract(n2, n2));
       break;
       case '*':
-      System.out.println("addition: "+multiply(n1,n2));
+      System.out.println("multiplication: "+multiply(n1,n2));
       break;
       case '/':
-      System.out.println("addition: "+divide(n1,n2));
+      System.out.println("divide: "+divide(n1,n2));
       break;
       default:
       System.out.println("invalid operator!");
