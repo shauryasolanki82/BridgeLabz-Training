@@ -1,8 +1,8 @@
 package review;
-import java.util.*;
+// import java.util.*;
 class Parent{
     String name;
-    Parent(String name){
+    public Parent(String name){
         this.name = name;
     }
     public void display(){
@@ -11,7 +11,7 @@ class Parent{
 }
 class Child extends Parent{
     String name;
-    Child(String name){
+    public Child(String name){
         super(name);
         this.name = name;
     }
@@ -26,10 +26,21 @@ class Child extends Parent{
         System.out.println("Solanki");
     }
 }
+class Name extends Parent{
+    String name;
+    public Name(String name){
+        super(name);
+        this.name = name;
+    }
+    public void display(){
+        System.out.println(name);
+    }
+}
 public class OverRide{
     public static void main(String[] args) {
         Parent p = new Parent("abc");
         Child c = new Child("xyz");
+        Name n = new Name("qwe");
         p.display();
         c.display();
     }
