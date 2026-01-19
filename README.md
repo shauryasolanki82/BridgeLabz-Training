@@ -13,6 +13,10 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   ├── gcr-codebase/
      │   │   ├── programming-elements/
      │   │   └── control-flow/
+     |   |   ├── arrays
+     |   |   ├── extras
+     |   |   ├── methods
+     |   |   ├── strings
      │   │
      │   ├── leet-code-codebase/
      │   │
@@ -21,12 +25,12 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── oops-practice/
      │   │
      │   ├── gcr-codebase/
-     │   │   ├── class-and-object/
-     │   │   ├── java-constructors/
-     |   |   ├── java-keywords/
-     |   |   ├── object-modeling/
+     │   │   ├── class-objects/
+     │   │   ├── constructors/
+     |   |   ├── keywords-instanceOf-operator/
+     |   |   ├── object-oriented-design-principles/
      |   |   ├── inheritance/
-     |   |   ├── oops-pillars/
+     |   |   ├── polymorphism-encapsulation/
      |   |
      │   ├── leet-code-codebase/
      |   |
@@ -36,7 +40,9 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── dsa-practice/
      │   ├── gcr-codebase/
      │   │   ├── linked-list/
-     |   |
+     |   |   ├── linera-binarysearching-stringbuilder-stringbuffer
+     |   |   ├── sorting
+     |   |   ├── stack-queue-hashmap
      |   |
      ├── reviews/
      |
@@ -180,3 +186,38 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on _Hospital Patient Management System_
   - Solved scenario based question on _Vehicle Rental Application_
   - Solved scenario based question on _Flight Booking System_
+
+  ## Week 5: OOPS Concept And DSA
+
+---
+
+- **12-Jan-2026 (Monday) :-**
+  - Solved scenario based question on _E-Commerce Order Management System_
+  - Solved scenario based question on _Student Course Registration System_
+  - Solved scenario based question on _ Inventory Management System_
+
+- **13-Jan-2026 (Tuesday) :-**
+  - Solved scenario based question on _Voting System_
+  - Solved scenario based question on _HOtel Management System_
+  - Solved scenario based question on _ Digital Wallet_
+  - Solved scenario based question on _Online Examination System_
+
+- **14-Jan-2026 (Wednesday) :-**
+  - Solved scenario based question on _Voting System_
+  - Solved scenario based question on _HOtel Management System_
+  - Solved scenario based question on _ Digital Wallet_
+  - Solved scenario based question on _Online Examination System_
+
+  - **15-Jan-2026 (Thursday) :-**
+  - Learn Sorting and searching algo
+  - Solved scenario based question on _Bubble Sort_
+  - Solved scenario based question on _Insertion Sort_
+
+  - **16-Jan-2026 (Firday) :-**
+  - Solved scenario based question on \_Quick Sort
+  - Solved scenario based question on _Selection Sort_
+  - Solved scenario based question on _ Counting Sort_
+
+  - **17-Jan-2026 (Firday) :-**
+  - Studied StringBuilder, StringBuffer, FileReader, InputStreamReader,Linear Search and Binary Search
+  - Solved problems related StringBuilder, StringBuffer, FileReader, InputStreamReader,Linear Search and Binary Search
