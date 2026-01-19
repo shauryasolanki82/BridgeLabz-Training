@@ -23,7 +23,7 @@ class Child extends Parent{
         System.out.println(name);
     }
     public void surName(){
-        System.out.println("Solanki");
+        System.out.println("solanki");
     }
 }
 class Name extends Parent{
@@ -43,5 +43,6 @@ public class OverRide{
         Name n = new Name("qwe");
         p.display();
         c.display();
+        n.display();
     }
 }
